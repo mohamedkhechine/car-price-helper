@@ -1,1 +1,2 @@
 # car-price-helper
+project still kinda too complicated as i got the tunisian data it was too little so i tried finetuning it using a tukey set of data wich is more large but didnt work out in the end as there are too many missing weignt and extra tunisian features so to finish the project one must get the missing weight from a seperate dataset and finally finetune the tunisian one its possible but difficult 
